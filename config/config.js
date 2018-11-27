@@ -17,5 +17,5 @@ module.exports = {
   syncModel: 'exist',// 'none', 'all', 'exist',
   // bindingHost: '127.0.0.1', // only binding on 127.0.0.1 for local access
   // sourceNpmRegistry:"http://47.98.115.136/",
-  // registryHost: '47.98.115.136:d',
+  registryHost: '47.98.115.136:7001',
 };
